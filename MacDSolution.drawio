@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T05:54:10.697Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="oyqGzrSmvrrYHwbMxNtK" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-05T06:15:36.206Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DXnt7h-iX7zLQGeoyuUe" version="14.2.9" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="897" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="e2fdtUEJg0z5a7h14m2f-10" value="录入套餐图片/价钱/名称" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="e2fdtUEJg0z5a7h14m2f-9">
           <mxGeometry x="30" y="312" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2fdtUEJg0z5a7h14m2f-32" value="录入食物图片/价钱/名称" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="e2fdtUEJg0z5a7h14m2f-9">
+        <mxCell id="e2fdtUEJg0z5a7h14m2f-32" value="录入菜品图片/价钱/名称" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="e2fdtUEJg0z5a7h14m2f-9">
           <mxGeometry x="30" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2fdtUEJg0z5a7h14m2f-12" value="优惠额排序功能" style="swimlane;html=1;startSize=20;" vertex="1" parent="e2fdtUEJg0z5a7h14m2f-0">
@@ -215,7 +215,7 @@
             <mxPoint x="520" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2fdtUEJg0z5a7h14m2f-28" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;录入食物信息&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="syh2b1wknD5gntk_Asfk-1">
+        <mxCell id="e2fdtUEJg0z5a7h14m2f-28" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;录入菜品信息&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="syh2b1wknD5gntk_Asfk-1">
           <mxGeometry x="220" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e2fdtUEJg0z5a7h14m2f-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;录入套餐信息&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="syh2b1wknD5gntk_Asfk-1">
@@ -244,10 +244,10 @@
         <mxCell id="Scfp5zgoTW77vw0WsTQA-6" value="提交" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-4">
           <mxGeometry x="30" y="60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Scfp5zgoTW77vw0WsTQA-7" value="剩余食物判定方案功能" style="swimlane;html=1;startSize=20;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-0">
+        <mxCell id="Scfp5zgoTW77vw0WsTQA-7" value="待判定菜品判定功能" style="swimlane;html=1;startSize=20;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-0">
           <mxGeometry x="320" y="20" width="160" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="mNoebpdp3pZ4CvMQ3teG-0" value="判定剩余食物满足该套餐的数量" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-7">
+        <mxCell id="mNoebpdp3pZ4CvMQ3teG-0" value="待判定菜品满足该套餐的数量" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-7">
           <mxGeometry x="30" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qTZFoO3pop353_HqjEWo-0" value="是否有不同排序" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-7">
@@ -340,13 +340,13 @@
             <mxPoint x="200" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nv6ISV2TCkGnpukUeGbR-0" value="优惠方案记录功能" style="swimlane;html=1;startSize=20;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-0">
+        <mxCell id="nv6ISV2TCkGnpukUeGbR-0" value="套餐组合记录功能" style="swimlane;html=1;startSize=20;" vertex="1" parent="Scfp5zgoTW77vw0WsTQA-0">
           <mxGeometry x="640" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="nv6ISV2TCkGnpukUeGbR-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="nv6ISV2TCkGnpukUeGbR-0">
           <mxGeometry x="30" y="496" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qTZFoO3pop353_HqjEWo-1" value="记录该套餐信息以及数量" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="nv6ISV2TCkGnpukUeGbR-0">
+        <mxCell id="qTZFoO3pop353_HqjEWo-1" value="增加该套餐信息以及数量" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="nv6ISV2TCkGnpukUeGbR-0">
           <mxGeometry x="30" y="322" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qTZFoO3pop353_HqjEWo-17" value="" style="endArrow=classic;html=1;" edge="1" parent="nv6ISV2TCkGnpukUeGbR-0" source="qTZFoO3pop353_HqjEWo-1" target="nv6ISV2TCkGnpukUeGbR-1">
@@ -382,8 +382,8 @@
             <mxPoint x="680" y="381.6875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Scfp5zgoTW77vw0WsTQA-17" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;选择购买食物&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="B8GpLeSW9WDh-s2J5Bn4-1">
-          <mxGeometry x="220" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="Scfp5zgoTW77vw0WsTQA-17" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;选择菜品&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="B8GpLeSW9WDh-s2J5Bn4-1">
+          <mxGeometry x="250" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qTZFoO3pop353_HqjEWo-16" value="" style="endArrow=classic;html=1;" edge="1" parent="B8GpLeSW9WDh-s2J5Bn4-1" source="eHNqr2JOOd4bOIvWFbwj-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
